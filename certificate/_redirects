@@ -1,8 +1,0 @@
-# Redirection pour la page de vérification
-/certificate/*  /verified.html  200
-
-# Redirection pour certificat expiré (optionnel)
-/certificate/expired  /expired.html  200
-
-# Page d'accueil par défaut
-/  /index.html  200
